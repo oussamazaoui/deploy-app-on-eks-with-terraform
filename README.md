@@ -1,2 +1,3 @@
 # deploy-app-on-eks-with-terraform
-[1693815177578](https://github.com/user-attachments/assets/e30b7690-0212-4761-b10d-9a721ab275ec)
+
+![1693815177578](https://github.com/user-attachments/assets/583b1265-d90c-4594-b2a0-ca0daa9f6a8f)
